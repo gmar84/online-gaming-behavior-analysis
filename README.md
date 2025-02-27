@@ -6,7 +6,7 @@
 
 `README.md` - This File
 
-[Online Gaming Behavior Analysis.ipynb](Online Gaming Behavior Analysis.ipynb) - Data Analysis
+[Online Gaming Behavior Analysis](Online Gaming Behavior Analysis.ipynb) - Data Analysis
 
 ### Description
 
