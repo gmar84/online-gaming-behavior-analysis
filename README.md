@@ -14,11 +14,11 @@
 
 This is an exploratory analysis of a dataset from Kaggle. In this analysis, I hypothesize a positive correlation between Player Engagement and Player Purchases. So, as players spend more time playing, the more likely they are to spend money.
 
-### ANALYSIS
+### Analysis
 
 I use correlation analysis, percentages and ratios of various features (such as age, gender and player statistics).
 
-### VISUALS
+### Visuals
 
 I use a variety of visualizations including bar and histogram.
 
