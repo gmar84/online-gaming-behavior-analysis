@@ -10,7 +10,7 @@
 
 [Analysis.ipynb](Analysis.ipynb) - Data Analysis Report
 
-[Predictions_Hypothesis.pdf](Predictions_Hypothesis.pdf) - Online Gaming Behavior Analysis
+[Predictions_Hypothesis.pdf](Predictions_Hypothesis.pdf) - Predictions and Hypothesis of the analysis
 
 ### Description
 
