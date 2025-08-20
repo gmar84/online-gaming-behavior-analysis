@@ -10,6 +10,8 @@
 
 [Analysis.ipynb](Analysis.ipynb) - Data Analysis Report
 
+[Online Gaming Behavior Analysis.pdf](Online Gaming Behavior Analysis.pdf) - Online Gaming Behavior Analysis
+
 ### Description
 
 This is an exploratory analysis of a dataset from Kaggle. In this analysis, I hypothesize a positive correlation between Player Engagement and Player Purchases. So, as players spend more time playing, the more likely they are to spend money.
