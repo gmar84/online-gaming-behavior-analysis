@@ -12,6 +12,8 @@
 
 [Predictions_Hypothesis.pdf](Predictions_Hypothesis.pdf) - Predictions and Hypothesis of the analysis
 
+[Analysis_Results.pdf](Analysis_Results.pdf) - Results of the analysis
+
 ### Description
 
 This is an exploratory analysis of a dataset from Kaggle. In this analysis, I hypothesize a positive correlation between Player Engagement and Player Purchases. So, as players spend more time playing, the more likely they are to spend money.
