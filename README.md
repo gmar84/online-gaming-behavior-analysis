@@ -10,7 +10,7 @@
 
 [Analysis.ipynb](Analysis.ipynb) - Data Analysis Report
 
-[[Online Gaming Behavior Analysis.pdf]](Online Gaming Behavior Analysis.pdf) - Online Gaming Behavior Analysis
+[Online Gaming Behavior Analysis.pdf](Online Gaming Behavior Analysis.pdf) - Online Gaming Behavior Analysis
 
 ### Description
 
